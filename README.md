@@ -10,10 +10,10 @@
 
 
 ### 👱‍♀️💻 Sobre mí  
-¡Hola! Soy Ana, **estudiante de desarrollo FullStack** y todavía soy una aprendiz en plena misión de realizar muchos experimentos en mi laboratorio de código:
+¡Hola! Soy Ana, **estudiante de desarrollo FullStack** y todavía soy una aprendiz en plena misión de realizar muchos experimentos en mi laboratorio:
 - Algunos componentes explotan 💥 *(¡aquí es cuando más aprendo!)*  
-- Otros revelan magia inesperada ✨ *(¿cómo que esto funciona?)*  
-Pero todo ,absolutamente todos , me enseñan nuevos hechizos de programación  
+- Otros revelan una magia inesperada ✨ *(¿cómo que esto funciona?)*  
+Pero todos ,absolutamente todos , me enseñan nuevos hechizos de programación  
 
 ### 🌍 Puedes encontrarme en:  
 [<img src="https://img.shields.io/badge/Instagram-@anacodeexplorer-DAF8D2?style=for-the-badge&logo=instagram&logoColor=white" height="25">](https://www.instagram.com/anacodeexplorer/)
