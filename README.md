@@ -5,7 +5,9 @@
 <h3 style="color: #ff6b6b; margin-top: -5px;">Desarrolladora en formación</h3>
   </div>
 
-<img src="https://github.com/user-attachments/assets/8a1e1ad8-a29e-4c50-a0f8-6f12421eb9ea" width="100%" style="border-radius: 8px; margin: 10px 0;">
+<img src="https://github.com/user-attachments/assets/b171bf85-1bf9-477b-8af7-229225ff2a7f" width="100%" style="border-radius: 8px; margin: 10px 0;">
+
+
 
 ### 👱‍♀️💻 Sobre mí  
 ¡Hola! Soy Ana, **estudiante de desarrollo FullStack** .
