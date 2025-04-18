@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![desk](https://github.com/user-attachments/assets/8a1e1ad8-a29e-4c50-a0f8-6f12421eb9ea)
+
 <!--
 **Anitasoyyo/Anitasoyyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
