@@ -13,7 +13,8 @@
 ¡Hola! Soy Ana, **estudiante de desarrollo FullStack** .
 
 ### 🌍 Puedes encontrarme en:  
-[<img src="https://img.shields.io/badge/Instagram-@anacodeexplorer-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25">](https://www.instagram.com/anacodeexplorer/)
+[<img src="https://img.shields.io/badge/Instagram-@anacodeexplorer-DAF8D2?style=for-the-badge&logo=instagram&logoColor=white" height="25">](https://www.instagram.com/anacodeexplorer/)
+
 
 ### 🌱 **Aprendiendo:**  
 - **Frontend**:  
