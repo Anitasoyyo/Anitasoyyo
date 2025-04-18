@@ -1,7 +1,9 @@
 <div style="background: #DAF8D2; padding: 25px; border-radius: 15px; border-left: 5px solid #ff6b6b; margin-bottom: 20px;">
 
-## Hola, mi nombre es Ana 👋  
+      
+   <h1> Hola, mi nombre es Ana 👋  </h1>
 <h3 style="color: #ff6b6b; margin-top: -5px;">Desarrolladora en formación</h3>
+  </div>
 
 <img src="https://github.com/user-attachments/assets/8a1e1ad8-a29e-4c50-a0f8-6f12421eb9ea" width="100%" style="border-radius: 8px; margin: 10px 0;">
 
@@ -24,20 +26,14 @@
 🧪 `Instagram` = Mi diario de experimentos de código ([¡Sígueme!](https://www.instagram.com/anacodeexplorer))  
 
 ### 🚀💪 **Meta:**  
-Convertirme en una **desarrolladora FullStack versátil** y colaborar en proyectos .  
+Convertirme en una **desarrolladora FullStack versátil** y colaborar en proyectos .
+  <!-- Avatar-->
+  <img src="https://github.com/user-attachments/assets/81fb1797-807a-44c5-acc1-30bee36603d7" 
+       width="180" 
+       style="border-radius: 50%; border: 3px solid #ff6b6b; object-fit: cover;">
 
 </div>
 <!--
 **Anitasoyyo/Anitasoyyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
