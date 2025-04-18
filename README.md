@@ -1,21 +1,32 @@
-## Hola , mi nombre es Ana 👋
+<div style="background: #DAF8D2; padding: 25px; border-radius: 15px; border-left: 5px solid #ff6b6b; margin-bottom: 20px;">
 
-![desk](https://github.com/user-attachments/assets/8a1e1ad8-a29e-4c50-a0f8-6f12421eb9ea)
+## Hola, mi nombre es Ana 👋  
+<h3 style="color: #ff6b6b; margin-top: -5px;">Desarrolladora en formación</h3>
+
+<img src="https://github.com/user-attachments/assets/8a1e1ad8-a29e-4c50-a0f8-6f12421eb9ea" width="100%" style="border-radius: 8px; margin: 10px 0;">
+
 ### 👱‍♀️💻 Sobre mí  
-¡Hola! Soy Ana, **estudiante de desarrollo FullStack** :  
-### 🌍 Puedes encontrarme en:
-- [Instagram](https://www.instagram.com/anacodeexplorer/)
+¡Hola! Soy Ana, **estudiante de desarrollo FullStack** .
+
+### 🌍 Puedes encontrarme en:  
+[<img src="https://img.shields.io/badge/Instagram-@anacodeexplorer-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25">](https://www.instagram.com/anacodeexplorer/)
+
 ### 🌱 **Aprendiendo:**  
-- Maquetación web con **HTML5** ,diseño responsive con CSS moderno (mobile first,media queries..) ,prácticas con **Tailwind CSS**avanzado para crear animaciones con keyframes,transforms,transiciones ..,**Persistencia de datos**: Uso de `localStorage` y cookies ,**DOM dinámico**: Eventos JavaScript ,**APIs reales**: Consumo de datos REST con Fetch API  .
-- Os animo a que veáis todos mis experimentos en mi instagram 🧪😵 = Mi aprendizaje día a día.
-  
-### Mi próximo objetivo: comenzar Backend .
-### 🔮 **Aprendiendo activamente:**  
- **React.js** (Hooks, componentes, estado).  
-### ✨ **Mis proyectos:**  
+- **Frontend**:  
+  - ✔️ HTML5 + CSS (Responsive, Mobile First)  
+  - ✔️ Tailwind y CSS (Animaciones con keyframes/transforms)  
+  - ✔️ JavaScript (Eventos, APIs Fetch, localStorage)  
+- **Próximos pasos**:  
+  - ⚛️ Seguir avanzando con React.
+  - 🖥️ Iniciar Backend .
+
+### ✨ **Experimentos activos:**  
+🧪 `Instagram` = Mi diario de experimentos de código ([¡Sígueme!](https://www.instagram.com/anacodeexplorer))  
 
 ### 🚀💪 **Meta:**  
-Convertirme en una desarrolladora FullStack versátil y colaborar en proyectos innovadores. 
+Convertirme en una **desarrolladora FullStack versátil** y colaborar en proyectos .  
+
+</div>
 <!--
 **Anitasoyyo/Anitasoyyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
