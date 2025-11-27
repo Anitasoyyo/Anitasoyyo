@@ -18,15 +18,31 @@ Pero todos ,absolutamente todos , me enseñan nuevos hechizos de programación
 ### 🌍 Puedes encontrarme en:  
 [<img src="https://img.shields.io/badge/Instagram-@anacodeexplorer-DAF8D2?style=for-the-badge&logo=instagram&logoColor=white" height="25">](https://www.instagram.com/anacodeexplorer/)
 
+### 🛠️ **Tecnologías y Herramientas**
 
-### 🌱 **Aprendiendo:**  
-- **Frontend**:  
-  - ✔️ HTML5 + CSS (Responsive, Mobile First)  
-  - ✔️ Tailwind y CSS (Animaciones con keyframes/transforms)  
-  - ✔️ JavaScript (Eventos, APIs Fetch, localStorage)  
-- **Próximos pasos**:  
-  - ⚛️ Seguir avanzando con React.
-  - 🖥️ Iniciar Backend .
+**🎨 Frontend:**
+- HTML5 | CSS3 | JavaScript
+- React | Next.js
+- TailwindCSS
+- Babel
+
+**⚙️ Backend:**
+- Node.js | Express.js
+- RESTful APIs | GraphQL
+- Autenticación y Autorización (JWT, OAuth)
+
+**💾 Bases de datos:**
+- MongoDB | Mongoose
+- PostgreSQL | MySQL
+
+**🔧 Control de versiones:**
+- Git | GitHub
+
+**✅ Testing:**
+- Jest | Vitest
+
+**🚀 Despliegue:**
+- Netlify | Vercel
 
 ### ✨ **Experimentos activos:**  
 🧪 `Instagram` = Mi diario de experimentos de código ([¡Sígueme!](https://www.instagram.com/anacodeexplorer))  
