@@ -11,7 +11,15 @@
 Me gusta pensar que trabajo en un laboratorio: un espacio donde se formulan ideas, se      
 prueban hipótesis y se construyen soluciones desde cero. No todo sale a la primera, a veces  
 algo falla, otras veces explota 💥 pero cada acción deja un aprendizaje.
-Y supongo que por eso sigo aquí: porque este laboratorio nunca se queda quieto… y yo tampoco.
+Por eso sigo aquí: porque este laboratorio nunca se queda quieto… y yo tampoco.
+
+Me ilusiona este mundo en todos sus detalles: desde cuidar el setup,
+encender la luz tenue de mi escritorio cada día antes de empezar,
+conseguir que algo funcione después de horas peleándote con ello,
+o tener una Raspberry Pi montada en casa para que mis automatizaciones funcionen.
+No solo el código sino todo lo que lo rodea.
+
+Este es mi laboratorio. Y si antes me gustaba... ahora más 💥
 
   ### 🌍 Encuéntrame en
 
