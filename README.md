@@ -23,12 +23,11 @@ Este es mi laboratorio. Y si antes me gustaba... ahora más 💥
 
   ### 🌍 Encuéntrame en
 
-  [<img src="https://img.shields.io/badge/Portfolio-portfolio--nu--virid--66.vercel.app-c4b5a
-  0?style=for-the-badge&logo=vercel&logoColor=white"
-  height="25">](https://portfolio-nu-virid-66.vercel.app/)
-  [<img src="https://img.shields.io/badge/Instagram-@anacodeexplorer-DAF8D2?style=for-the-bad
-  ge&logo=instagram&logoColor=white"
-  height="25">](https://www.instagram.com/anacodeexplorer/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--nu--virid--66.vercel.app-c4
+  b5a0?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nu-virid-66.vercel
+  .app/)
+  [![Instagram](https://img.shields.io/badge/Instagram-@anacodeexplorer-E1306C?style=for-the-
+  badge&logo=instagram&logoColor=white)](https://www.instagram.com/anacodeexplorer/)
 
   ### 🛠️ Tecnologías y herramientas
 
