@@ -23,7 +23,8 @@ Este es mi laboratorio. Y si antes me gustaba... ahora más 💥
 
   ### 🌍 Encuéntrame en
 
-  - 🌐 [Portfolio](https://portfolio-nu-virid-66.vercel.app/)                                
+  - 🌐 [Portfolio](https://portfolio-nu-virid-66.vercel.app/)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/anamendezdev/)                            
   - 📸 [Instagram](https://www.instagram.com/anacodeexplorer/)
 
   ### 🛠️ Tecnologías y herramientas
