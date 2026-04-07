@@ -13,7 +13,6 @@ prueban hipótesis y se construyen soluciones desde cero. No todo sale a la prim
 algo falla, otras veces explota 💥 pero cada acción deja un aprendizaje.
 Y supongo que por eso sigo aquí: porque este laboratorio nunca se queda quieto… y yo tampoco.
 
-
   ### 🌍 Encuéntrame en
 
   [<img src="https://img.shields.io/badge/Portfolio-portfolio--nu--virid--66.vercel.app-c4b5a
@@ -38,7 +37,7 @@ Y supongo que por eso sigo aquí: porque este laboratorio nunca se queda quieto�
   Git · GitHub · Docker · Figma · Vercel
 
   **🤖 IA & Automatización:**
-  n8n · Claude Code · MCP servers · Hooks personalizados
+  n8n · Claude Code · MCP servers · Hooks personalizados . Skills
 
   ### 🚀 Meta
 
