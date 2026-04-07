@@ -1,60 +1,53 @@
-<div style="background: #DAF8D2; padding: 25px; border-radius: 15px; border-left: 5px solid #ff6b6b; margin-bottom: 20px;">
-
-      
-   <h1> Hola, mi nombre es Ana 👋  </h1>
-<h3 style="color: #ff6b6b; margin-top: -5px;">Desarrolladora en formación</h3>
+<div style="background: #1a1a2e; padding: 25px; border-radius: 15px; border-left: 5px solid
+   #c4b5a0; margin-bottom: 20px;">
+    <h1>Hola, soy Ana Méndez 👋</h1>
+    <h3 style="color: #c4b5a0; margin-top: -5px;">Desarrolladora Fullstack</h3>
   </div>
 
-<img src="https://github.com/user-attachments/assets/b171bf85-1bf9-477b-8af7-229225ff2a7f" width="100%" style="border-radius: 8px; margin: 10px 0;">
+  <img src="https://github.com/user-attachments/assets/b171bf85-1bf9-477b-8af7-229225ff2a7f" 
+  width="100%" style="border-radius: 8px; margin: 10px 0;">
+
+  ### 👩‍💻 Sobre mí
+Me gusta pensar que trabajo en un laboratorio: un espacio donde se formulan ideas, se      
+prueban hipótesis y se construyen soluciones desde cero. No todo sale a la primera, a veces  
+algo falla, otras veces explota 💥 pero cada acción deja un aprendizaje.
+Y supongo que por eso sigo aquí: porque este laboratorio nunca se queda quieto… y yo tampoco.
 
 
+  ### 🌍 Encuéntrame en
 
-### 👱‍♀️💻 Sobre mí  
-¡Hola! Soy Ana, **estudiante de desarrollo FullStack** y todavía soy una aprendiz en plena misión de realizar muchos experimentos en mi laboratorio:
-- Algunos componentes explotan 💥 *(¡aquí es cuando más aprendo!)*  
-- Otros revelan una magia inesperada ✨ *(¿cómo que esto funciona?)*  
-Pero todos ,absolutamente todos , me enseñan nuevos hechizos de programación  
+  [<img src="https://img.shields.io/badge/Portfolio-portfolio--nu--virid--66.vercel.app-c4b5a
+  0?style=for-the-badge&logo=vercel&logoColor=white"
+  height="25">](https://portfolio-nu-virid-66.vercel.app/)
+  [<img src="https://img.shields.io/badge/Instagram-@anacodeexplorer-DAF8D2?style=for-the-bad
+  ge&logo=instagram&logoColor=white"
+  height="25">](https://www.instagram.com/anacodeexplorer/)
 
-### 🌍 Puedes encontrarme en:  
-[<img src="https://img.shields.io/badge/Instagram-@anacodeexplorer-DAF8D2?style=for-the-badge&logo=instagram&logoColor=white" height="25">](https://www.instagram.com/anacodeexplorer/)
+  ### 🛠️ Tecnologías y herramientas
 
-### 🛠️ **Tecnologías y Herramientas**
+  **🎨 Frontend:**
+  HTML5 · CSS3 · JavaScript · React · Astro · TailwindCSS
 
-**🎨 Frontend:**
-- HTML5 | CSS3 | JavaScript
-- React | Next.js
-- TailwindCSS
-- Babel
+  **⚙️ Backend:**
+  Node.js · Express · Python · Java · Spring
 
-**⚙️ Backend:**
-- Node.js | Express.js
-- RESTful APIs | GraphQL
-- Autenticación y Autorización (JWT, OAuth)
+  **💾 Bases de datos:**
+  MongoDB · MySQL · Redis
 
-**💾 Bases de datos:**
-- MongoDB | Mongoose
-- PostgreSQL | MySQL
+  **🔧 Herramientas:**
+  Git · GitHub · Docker · Figma · Vercel
 
-**🔧 Control de versiones:**
-- Git | GitHub
+  **🤖 IA & Automatización:**
+  n8n · Claude Code · MCP servers · Hooks personalizados
 
-**✅ Testing:**
-- Jest | Vitest
+  ### 🚀 Meta
 
-**🚀 Despliegue:**
-- Netlify | Vercel
+  Crecer como desarrolladora Fullstack y poder integrar IA y automatización en productos     
+  reales — no como tendencia, sino como herramientas que de verdad aporten valor.
 
-### ✨ **Experimentos activos:**  
-🧪 `Instagram` = Mi diario de experimentos de código ([¡Sígueme!](https://www.instagram.com/anacodeexplorer))  
-
-### 🚀💪 **Meta:**  
-Convertirme en una **desarrolladora FullStack versátil** y colaborar en proyectos .
-  <!-- Avatar-->
   <img src="https://github.com/user-attachments/assets/81fb1797-807a-44c5-acc1-30bee36603d7" 
-       width="180" 
-       style="border-radius: 50%; border: 3px solid #ff6b6b; object-fit: cover;">
-
-</div>
+       width="180"
+       style="border-radius: 50%; border: 3px solid #c4b5a0; object-fit: cover;">
 <!--
 **Anitasoyyo/Anitasoyyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
